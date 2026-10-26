@@ -56,11 +56,11 @@ The project was developed for the **Introduction to Software Engineering** cours
 
 | | | |
 | --- | --- | --- |
-| <img src="./screenshots/welcome-screen.png" alt="Welcome screen" width="260"/> | <img src="./screenshots/home-screen.png" alt="Home screen" width="260"/> | <img src="./screenshots/sos-screen.png" alt="SOS screen" width="260"/> |
+| <img src="./images/welcome-screen.png" alt="Welcome screen" width="260"/> | <img src="./images/home-screen.png" alt="Home screen" width="260"/> | <img src="./images/sos-screen.png" alt="SOS screen" width="260"/> |
 | <sub>Welcome screen</sub> | <sub>Home with emergency categories</sub> | <sub>SOS screen with location permission</sub> |
 
 <p align="center">
-  <img src="./screenshots/figma-canvas.png" alt="Figma canvas with all screens" width="800"/>
+  <img src="./images/figma-canvas.png" alt="Figma canvas with all screens" width="800"/>
 </p>
 
 <p align="center">
